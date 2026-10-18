@@ -1,0 +1,33 @@
+有效枪械索引(唯一): 431
+加载失败(缺 data): 25
+实际可用枪械: 406
+
+==== 按枪包 ====
+[Tacz1.1.5+]CIBR_GunsPack_v0.2.zip                      定义  75  可用  75
+[Tacz1.1.6+]MS-Mobius Gunspack v1.5.2.zip               定义  56  可用  56
+tacz_default_gun                                        定义  42  可用  42
+民间枪匠1.1.5.zip                                           定义  37  可用  13
+Cyber Armorer-1.1.4.3.1_for114.zip                      定义  35  可用  35
+STF SENTINEL GunPack 1.0.zip                            定义  32  可用  32
+[独特武装]Exception Armorer_v1.0.8_for_tacz1.1.7.zip        定义  24  可用  24
+Apocalypse_v1.1.4_F.zip                                 定义  23  可用  23
+蔚蓝档案枪械包_converted.zip                                   定义  22  可用  21
+[NPGP3.2]Release.zip                                    定义  18  可用  18
+[TacZ1.1.4]EOS_Dawn Goddess Lab ver1.0.1.zip            定义  15  可用  15
+地狱潜兵2（koei）.zip                                         定义  13  可用  13
+千禧年科技学院武器包.zip                                          定义  11  可用  11
+蔚蓝档案印象枪械.zip                                            定义  11  可用  11
+[TACZ1.1.6]AnnoyingVillagersWeaponsPack v2.0.zip        定义   9  可用   9
+Hamster's BA gunpack_converted.zip                      定义   3  可用   3
+[彩虹公司]Rainbow Plasma Guns pack v0.4.zip                 定义   2  可用   2
+光之剑-超新星_converted.zip                                   定义   2  可用   2
+Minecraft Swords Pack v1.3pre2.zip                      定义   1  可用   1
+
+==== 按类型 ====
+mg                23 (可用  21)
+pistol            85 (可用  78)
+rifle            126 (可用 121)
+rpg               44 (可用  43)
+shotgun           44 (可用  42)
+smg               47 (可用  42)
+sniper            62 (可用  59)

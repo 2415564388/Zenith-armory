@@ -1,0 +1,21 @@
+{
+  "item.gundevourer.gun_devourer": "天顶军械库",
+  "tooltip.gundevourer.simple": "§7万枪归寂，尽入吾库。",
+  "tooltip.gundevourer.stats": "§6已吞噬：§e%1$s §6种  §8|  §c射击伤害 +%2$s  §8|  §d枪伤 +%3$s%%",
+  "tooltip.gundevourer.true.active": "§5真伤：§d已激活 §8（命中附加该次伤害 %1$s%% 的真实伤害，最低留 %2$s 血）",
+  "tooltip.gundevourer.true.progress": "§5真伤：§7%1$s / %2$s",
+  "tooltip.gundevourer.shift": "§8§o按住 Shift 查看详情",
+  "tooltip.gundevourer.detail.title": "§6§l—— 天顶军械库 ——",
+  "tooltip.gundevourer.detail.1": "§7吞噬：鼠标拿起本物品，右键点击物品栏或容器中的 TaCZ 枪械。",
+  "tooltip.gundevourer.detail.2": "§7每种枪械 ID 仅可吞噬一次，吞噬后枪械会被消耗。",
+  "tooltip.gundevourer.detail.3": "§7每吞噬一种枪械，射击基础伤害 §c+%1$s§7；每 %2$s 种额外 §d+%3$s%%§7 枪械伤害。",
+  "tooltip.gundevourer.detail.4": "§7多弹头武器按弹丸数分摊，整发全中时总加成不变。",
+  "tooltip.gundevourer.detail.5": "§7吞噬达到 §d%1$s§7 种后，枪械命中额外造成该次伤害 §d%2$s%%§7 的绝对真实伤害。",
+  "tooltip.gundevourer.detail.6": "§7装备在 Curios 饰品栏（护符）后生效；同一玩家只能装备一个，仅第一个生效。",
+  "tooltip.gundevourer.detail.7": "§7真伤无视无敌帧；仅对免疫标签中的生物无效。",
+  "tooltip.gundevourer.detail.8": "§7真伤不会直接击杀目标，最低只会把血量压到 %1$s 点。",
+  "message.gundevourer.devoured": "吞噬成功！已吞噬 %1$s 种枪械，射击伤害 +%2$s",
+  "message.gundevourer.already": "这种枪械已经吞噬过了",
+  "command.gundevourer.set": "已将天顶军械库的吞噬数设为 %1$s 种（0 = 清空）",
+  "command.gundevourer.no_item": "背包或饰品栏里没有找到天顶军械库"
+}

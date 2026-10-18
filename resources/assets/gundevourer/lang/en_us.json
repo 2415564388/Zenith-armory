@@ -1,0 +1,21 @@
+{
+  "item.gundevourer.gun_devourer": "Zenith Armory",
+  "tooltip.gundevourer.simple": "§7Every gun finds its way into the armory.",
+  "tooltip.gundevourer.stats": "§6Devoured: §e%1$s §6types  §8|  §cGun damage +%2$s  §8|  §dDamage +%3$s%%",
+  "tooltip.gundevourer.true.active": "§5True damage: §dACTIVE §8(%1$s%% of the hit's damage, leaves at least %2$s HP)",
+  "tooltip.gundevourer.true.progress": "§5True damage: §7%1$s / %2$s",
+  "tooltip.gundevourer.shift": "§8§oHold Shift for details",
+  "tooltip.gundevourer.detail.title": "§6§l— ZENITH ARMORY —",
+  "tooltip.gundevourer.detail.1": "§7Devour: hold this item and right-click a TaCZ gun in any inventory or container.",
+  "tooltip.gundevourer.detail.2": "§7Each gun ID can be devoured only once; the gun is consumed.",
+  "tooltip.gundevourer.detail.3": "§7Each devoured gun type grants §c+%1$s §7gun damage; every %2$s types grants §d+%3$s%%§7 gun damage.",
+  "tooltip.gundevourer.detail.4": "§7Multi-pellet guns split the bonus across pellets; a full hit still adds the same total.",
+  "tooltip.gundevourer.detail.5": "§7At §d%1$s§7 devoured types, gun hits deal an additional §d%2$s%%§7 of the hit's damage as absolute true damage.",
+  "tooltip.gundevourer.detail.6": "§7Equip in a Curios charm slot to activate. Only one can be equipped per player.",
+  "tooltip.gundevourer.detail.7": "§7True damage bypasses i-frames; only entities in the immunity tag are immune.",
+  "tooltip.gundevourer.detail.8": "§7True damage cannot kill; it leaves the target at %1$s HP at minimum.",
+  "message.gundevourer.devoured": "Devoured! %1$s gun types consumed, gun damage +%2$s",
+  "message.gundevourer.already": "This gun type has already been devoured",
+  "command.gundevourer.set": "Set Zenith Armory devoured count to %1$s (0 = clear)",
+  "command.gundevourer.no_item": "No Zenith Armory found in your inventory or Curios slots"
+}
